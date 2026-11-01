@@ -305,9 +305,9 @@ Build a real-time prediction pipeline
 
 ### 👨‍💻 Author
 
-### **Ramtanay Chakraborty**
+### **Souvik Adhikari**
 
-GitHub: @ramtanay
+GitHub: AdhikariSouvik2003
 
 📄 License
 
